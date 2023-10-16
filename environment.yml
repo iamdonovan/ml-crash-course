@@ -1,0 +1,9 @@
+name: ml-crash-course
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - jupyterlab
+  - scikit-learn
+  - matplotlib
